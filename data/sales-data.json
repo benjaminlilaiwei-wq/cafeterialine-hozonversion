@@ -1,0 +1,422 @@
+{
+    "0": {
+        "id": 1771343123501,
+        "date": "2026-02-18",
+        "time": "00:45",
+        "name": "a",
+        "studentClass": "",
+        "people": 1,
+        "food": "日替わり定食（550円）",
+        "reservationNumber": 967
+    },
+    "2026-02-18": {
+        "reservations": 14,
+        "people": 7,
+        "menuSales": {
+            "カレーうどん（400円）": 1,
+            "日替わり定食（550円）": 1,
+            "かけそば（400円）": 1,
+            "豚骨ラーメン（450円）": 1,
+            "天ぷらうどん（400円）": 1,
+            "日替わり丼（450円）": 1,
+            "やきめし（450円）": 1
+        },
+        "reservationList": [
+            {
+                "id": 1771343524402,
+                "date": "2026-02-18",
+                "time": "00:52",
+                "name": "kiop",
+                "studentClass": "",
+                "people": 1,
+                "food": "ハヤシライス（500円）",
+                "reservationNumber": 698
+            },
+            {
+                "id": 1771398303772,
+                "date": "2026-02-18",
+                "time": "16:05",
+                "name": "瀬尾",
+                "studentClass": "",
+                "people": 1,
+                "food": "カレーうどん（400円）",
+                "reservationNumber": 255,
+                "verified": true
+            },
+            {
+                "id": 1771398732738,
+                "date": "2026-02-18",
+                "time": "16:12",
+                "name": "sd",
+                "studentClass": "",
+                "people": 1,
+                "food": "日替わり定食（550円）",
+                "reservationNumber": 600,
+                "verified": true
+            },
+            {
+                "id": 1771399031011,
+                "date": "2026-02-18",
+                "time": "16:17",
+                "name": "aas",
+                "studentClass": "",
+                "people": 1,
+                "food": "かけそば（400円）",
+                "reservationNumber": 401,
+                "verified": true
+            },
+            {
+                "id": 1771399202769,
+                "date": "2026-02-18",
+                "time": "16:20",
+                "name": "かん",
+                "studentClass": "",
+                "people": 1,
+                "food": "豚骨ラーメン（450円）",
+                "reservationNumber": 774,
+                "verified": true
+            },
+            {
+                "id": 1771399269985,
+                "date": "2026-02-18",
+                "time": "16:21",
+                "name": "田中太郎",
+                "studentClass": "",
+                "people": 1,
+                "food": "天ぷらうどん（400円）",
+                "reservationNumber": 862,
+                "verified": true
+            },
+            {
+                "id": 1771399527796,
+                "date": "2026-02-18",
+                "time": "16:25",
+                "name": "あくあ",
+                "studentClass": "",
+                "people": 1,
+                "food": "日替わり丼（450円）",
+                "reservationNumber": 837,
+                "verified": true
+            },
+            {
+                "id": 1771399871748,
+                "date": "2026-02-18",
+                "time": "16:31",
+                "name": "佐々木",
+                "studentClass": "",
+                "people": 1,
+                "food": "やきめし（450円）",
+                "reservationNumber": 25,
+                "verified": true
+            },
+            {
+                "id": 1771400036290,
+                "date": "2026-02-18",
+                "time": "16:33",
+                "name": "福山太郎",
+                "studentClass": "",
+                "people": 1,
+                "food": "かけうどん（350円）",
+                "reservationNumber": 83
+            },
+            {
+                "id": 1771400043168,
+                "date": "2026-02-18",
+                "time": "16:34",
+                "name": "広島あいこ",
+                "studentClass": "",
+                "people": 1,
+                "food": "天ぷらそば（450円）",
+                "reservationNumber": 679
+            },
+            {
+                "id": 1771400084724,
+                "date": "2026-02-18",
+                "time": "16:34",
+                "name": "福川あい",
+                "studentClass": "",
+                "people": 1,
+                "food": "醤油ラーメン（450円）",
+                "reservationNumber": 922
+            },
+            {
+                "id": 1771400113805,
+                "date": "2026-02-18",
+                "time": "16:35",
+                "name": "丘野・オリーブ・直樹",
+                "studentClass": "",
+                "people": 1,
+                "food": "肉そば（450円）",
+                "reservationNumber": 581
+            },
+            {
+                "id": 1771400126105,
+                "date": "2026-02-18",
+                "time": "16:35",
+                "name": "山田りお",
+                "studentClass": "",
+                "people": 1,
+                "food": "カレーライス（450円）",
+                "reservationNumber": 707
+            },
+            {
+                "id": 1771400241228,
+                "date": "2026-02-18",
+                "time": "16:37",
+                "name": "宇喜多秀家",
+                "studentClass": "",
+                "people": 1,
+                "food": "日替わり定食（550円）",
+                "reservationNumber": 359
+            }
+        ]
+    },
+    "2026-03-02": {
+        "reservations": 1,
+        "people": 0,
+        "menuSales": [],
+        "reservationList": [
+            {
+                "id": 1772456163307,
+                "date": "2026-03-02",
+                "time": "21:56",
+                "name": "福沢諭吉",
+                "studentClass": "",
+                "people": 1,
+                "food": "かけそば（400円）",
+                "reservationNumber": 275
+            }
+        ]
+    },
+    "2026-03-05": {
+        "reservations": 1,
+        "people": 0,
+        "menuSales": [],
+        "reservationList": [
+            {
+                "id": 1772715838781,
+                "date": "2026-03-05",
+                "time": "22:03",
+                "name": "瀬尾 ベンジャミン豊",
+                "studentClass": "",
+                "people": 1,
+                "food": "天ぷらそば（450円）",
+                "reservationNumber": 615
+            }
+        ]
+    },
+    "2026-03-15": {
+        "reservations": 8,
+        "people": 5,
+        "menuSales": {
+            "日替わり定食（550円）": 2,
+            "ハヤシライス（500円）": 1,
+            "かけそば（400円）": 1,
+            "豚骨ラーメン（450円）": 1
+        },
+        "reservationList": [
+            {
+                "id": 1773556199301,
+                "date": "2026-03-15",
+                "time": "15:29",
+                "name": "かんだよ",
+                "studentClass": "",
+                "people": 1,
+                "food": "日替わり定食（550円）",
+                "reservationNumber": 790,
+                "verified": true,
+                "received": false
+            },
+            {
+                "id": 1773556267090,
+                "date": "2026-03-15",
+                "time": "15:31",
+                "name": "かんだ",
+                "studentClass": "",
+                "people": 1,
+                "food": "ハヤシライス（500円）",
+                "reservationNumber": 377,
+                "verified": true,
+                "received": true
+            },
+            {
+                "id": 1773556307592,
+                "date": "2026-03-15",
+                "time": "15:31",
+                "name": "あｄｓｆｄ",
+                "studentClass": "",
+                "people": 1,
+                "food": "肉うどん（400円）",
+                "reservationNumber": 901
+            },
+            {
+                "id": 1773578281978,
+                "date": "2026-03-15",
+                "time": "21:38",
+                "name": "瀬尾",
+                "studentClass": "",
+                "people": 1,
+                "food": "日替わり定食（550円）",
+                "reservationNumber": 4
+            },
+            {
+                "id": 1773578292450,
+                "date": "2026-03-15",
+                "time": "21:38",
+                "name": "いう",
+                "studentClass": "",
+                "people": 1,
+                "food": "日替わり定食（550円）",
+                "reservationNumber": 133,
+                "verified": true,
+                "received": true
+            },
+            {
+                "id": 1773578741365,
+                "date": "2026-03-15",
+                "time": "21:45",
+                "name": "あい",
+                "studentClass": "",
+                "people": 1,
+                "food": "かけそば（400円）",
+                "reservationNumber": 840,
+                "verified": true
+            },
+            {
+                "id": 1773578780596,
+                "date": "2026-03-15",
+                "time": "21:46",
+                "name": "瀬尾",
+                "studentClass": "",
+                "people": 1,
+                "food": "天ぷらうどん（400円）",
+                "reservationNumber": 265,
+                "received": true
+            },
+            {
+                "id": 1773579255728,
+                "date": "2026-03-15",
+                "time": "21:54",
+                "name": "asddf",
+                "studentClass": "",
+                "people": 1,
+                "food": "豚骨ラーメン（450円）",
+                "reservationNumber": 160,
+                "verified": true
+            }
+        ]
+    },
+    "2026-03-17": {
+        "reservations": 2,
+        "people": 1,
+        "menuSales": {
+            "豚骨ラーメン（450円）": 1
+        },
+        "reservationList": [
+            {
+                "id": 1773718134097,
+                "date": "2026-03-17",
+                "time": "12:28",
+                "name": "瀬尾",
+                "studentClass": "",
+                "people": 1,
+                "food": "日替わり定食（550円）",
+                "reservationNumber": 449,
+                "received": true
+            },
+            {
+                "id": 1773718468782,
+                "date": "2026-03-17",
+                "time": "12:34",
+                "name": "菅央丞",
+                "studentClass": "",
+                "people": 1,
+                "food": "豚骨ラーメン（450円）",
+                "reservationNumber": 944,
+                "verified": true,
+                "received": true
+            }
+        ]
+    },
+    "2026-03-18": {
+        "reservations": 1,
+        "people": 0,
+        "menuSales": [],
+        "reservationList": [
+            {
+                "id": 1773805350535,
+                "date": "2026-03-18",
+                "time": "12:42",
+                "name": "瀬尾",
+                "studentClass": "",
+                "people": 1,
+                "food": "肉そば（450円）",
+                "reservationNumber": 956,
+                "received": true
+            }
+        ]
+    },
+    "2026-03-19": {
+        "reservations": 1,
+        "people": 0,
+        "menuSales": [],
+        "reservationList": [
+            {
+                "id": 1774012200412,
+                "date": "2026-03-19",
+                "time": "22:10",
+                "name": "せお",
+                "studentClass": "",
+                "people": 1,
+                "food": "天ぷらそば（450円）",
+                "reservationNumber": 327
+            }
+        ]
+    },
+    "2026-03-23": {
+        "reservations": 2,
+        "people": 0,
+        "menuSales": [],
+        "reservationList": [
+            {
+                "id": 1774244314521,
+                "date": "2026-03-23",
+                "time": "14:38",
+                "name": "せお",
+                "studentClass": "",
+                "people": 1,
+                "food": "あ（340円）",
+                "reservationNumber": 615,
+                "received": true
+            },
+            {
+                "id": 1774244535645,
+                "date": "2026-03-23",
+                "time": "14:42",
+                "name": "瀬尾",
+                "studentClass": "",
+                "people": 1,
+                "food": "餃子（400円）",
+                "reservationNumber": 905,
+                "received": true
+            }
+        ]
+    },
+    "2026-03-25": {
+        "reservations": 1,
+        "people": 0,
+        "menuSales": [],
+        "reservationList": [
+            {
+                "id": 1774400908593,
+                "date": "2026-03-25",
+                "time": "10:08",
+                "name": "ddd",
+                "studentClass": "",
+                "people": 1,
+                "food": "日替わり定食（550円）",
+                "reservationNumber": 317
+            }
+        ]
+    }
+}
